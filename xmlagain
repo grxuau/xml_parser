@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Friday>
+    <day>Пт</day>
+        <doubleclass>
+            <timeclass> 10:00 - 11:30 </timeclass>
+            <week>четная неделя</week>
+            <room>ул. Ломоносова, д. 9, лит. М</room>
+            <lessonName>Основы проффесиональной деятельности(Лек) > актовый зал </lessonName>
+            <lector>Клименков Сергей Викторович</lector>
+            <lessonFormat>очно-дистанционный</lessonFormat>
+        </doubleclass>
+        <doubleclass>
+            <timeclass> 11:40 - 13:10 </timeclass>
+            <week>четная неделя</week>
+            <room>ул. Ломоносова, д. 9, лит. М</room>
+            <lessonName>Программирование(Лек): актовый зал </lessonName>
+            <lector>Письмак Алексей Евгеньевич</lector>
+            <lessonFormat>очно-дистанционный</lessonFormat>
+        </doubleclass>
+</Friday>
+
+
+
